@@ -6,10 +6,15 @@ The main objective is to uncover content trends, audience preferences, and impro
 Steps Taken
 
 •Data Cleaning & Preparation
+
 •Removed duplicates and missing values.
+
 •Converted stringified lists (e.g., genres, countries) into proper lists.
+
 •Merged titles.csv and credits.csv for combined analysis.
+
 •Exploratory Data Analysis (EDA)
+
 •Distribution of movies vs TV shows
 •Most common genres & production countries
 •IMDb and TMDb ratings comparison
